@@ -1,0 +1,1 @@
+<?php include"./view/layout/error_404.php";
